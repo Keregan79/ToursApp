@@ -1,0 +1,17 @@
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\bin\Debug\ToursAppKuksheva.exe.config
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\bin\Debug\ToursAppKuksheva.exe
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\bin\Debug\ToursAppKuksheva.pdb
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\ToursAppKuksheva.csproj.AssemblyReference.cache
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\HotelsPage.g.cs
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\MainWindow.g.cs
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\App.g.cs
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\ToursAppKuksheva_MarkupCompile.cache
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\ToursAppKuksheva_MarkupCompile.lref
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\HotelsPage.baml
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\MainWindow.baml
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\ToursAppKuksheva.g.resources
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\ToursAppKuksheva.Properties.Resources.resources
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\ToursAppKuksheva.csproj.GenerateResource.cache
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\ToursAppKuksheva.csproj.CoreCompileInputs.cache
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\ToursAppKuksheva.exe
+C:\Users\29432974\Desktop\Tours\ToursAppKuksheva\obj\Debug\ToursAppKuksheva.pdb
